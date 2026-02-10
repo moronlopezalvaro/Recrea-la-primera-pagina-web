@@ -28,3 +28,7 @@ blockquote{  /*estilo para la cita de la página*/
 cite{   
     padding-left: 30px;
 }
+
+figure{
+    text-align: center;
+}
