@@ -43,3 +43,17 @@ figcaption{     /*estilo para el pie de figura de la página*/
     margin-top: 50px;
     border-bottom: 3px solid #2f00bc;
 }
+
+a{      /*estilo para los enlaces de la página*/
+    color: #f7e7af;
+    font-weight: bold;
+}
+
+a:hover{
+    color: #ffffff;
+}
+
+#enlacefinal{
+    padding-left: 80px;
+    font-style: italic;
+}
