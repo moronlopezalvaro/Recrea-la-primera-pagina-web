@@ -24,3 +24,7 @@ blockquote{  /*estilo para la cita de la página*/
     color: #0160ce;
     padding: 10px 30px 0px 30px;
 }
+
+cite{   
+    padding-left: 30px;
+}
