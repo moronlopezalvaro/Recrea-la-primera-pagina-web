@@ -32,3 +32,9 @@ cite{
 figure{
     text-align: center;
 }
+
+figcaption{     /*estilo para el pie de figura de la página*/
+    color: #0160ce;
+    font-size: small;
+    padding-right: 160px;
+}
