@@ -38,3 +38,8 @@ figcaption{     /*estilo para el pie de figura de la página*/
     font-size: small;
     padding-right: 160px;
 }
+
+#inicio{        /*raya de la parte superior*/
+    margin-top: 50px;
+    border-bottom: 3px solid #2f00bc;
+}
