@@ -2,3 +2,9 @@ html{       /*estilo para la raíz de la página*/
     font-family: "Roboto", sans-serif;
     background-color: #0160ce;
 }
+
+h2{      /*estilo para los títulos*/
+    font-family: "Atomic Age", sans-serif;
+    word-spacing: 3px;
+    letter-spacing: 0.5px;
+}
