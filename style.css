@@ -8,3 +8,11 @@ h2{      /*estilo para los títulos*/
     word-spacing: 3px;
     letter-spacing: 0.5px;
 }
+
+body{   /*estilo para el cuerpo de la página*/
+    width: 1100px;
+    margin: auto;
+    padding: 50px;
+    background-color: white;
+    box-shadow: 0px 8px 10px 5px black;
+}
